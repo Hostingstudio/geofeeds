@@ -1,0 +1,14 @@
+# https://geo..../as208454.csv AS208454 geofeed (RFC8805)
+# Contact: mail@addre.ss
+#
+# Prefix,A2C,Region,City,Postal Code
+#
+# IPv6
+# 2a10:cc44:1d0::/48
+2a10:cc44:1d0::/44,DE,,,
+2a10:cc44:1d0::/48,DE,DE-NRW,Weilerswist,53919
+2a10:cc44:1d1::/48,NL,,,
+2a10:cc44:1d2::/48,CH,,,
+2a10:cc44:1d3::/48,US,,,
+2a10:cc44:1d4::/48,GB,,,
+2a10:cc44:1da::/48,DE,,,
